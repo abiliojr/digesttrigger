@@ -1,0 +1,6 @@
+base   digesttrigger
+author Abilio Marques
+date   2015-08-17
+name   Trigger DokuWiki's digests sending
+desc   Allows pending digests to be sent without waiting for any kind of access
+url    https://github.com/abiliojr/digesttrigger
