@@ -1,6 +1,6 @@
 # Digest Trigger
 
-Allows DokuWiki's pending digests to be sent without waiting for any kind of access.
+Allow DokuWiki's pending digests to be sent without waiting for any kind of access.
 
 You can find the latest version of this plugin at:
 
